@@ -58,12 +58,9 @@ public class CryptoRSA {
 
 		
 		
-		
-		
-		
 		/*
 	
-		//Bob use's Alice's parameters to encrypt
+		// IF Bob use's Alice's parameters to encrypt
 		////////////////////////////////////////////////////////////////////////////////////////////////////
 		//If Alice's Public Key is Not given or Private Key is Not given
 		if(e2.equals(Contains0)){
